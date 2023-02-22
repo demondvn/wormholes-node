@@ -6,6 +6,8 @@
     docker exec -it wormholes /bin/bash
 ## Update key
     nano /wm/.wormholes/wormholes/nodekey
+## Check
+    ./monitor.sh
 điền private key vào bỏ 2 ký tự  `0x` đi
 
     supervisorctl restart wormholes
