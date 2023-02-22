@@ -8,4 +8,4 @@
     nano /wm/.wormholes/wormholes/nodekey
 điền private key vào bỏ 2 ký tự  `0x` đi
 
-    supervisorctl restart wormhole
+    supervisorctl restart wormholes
